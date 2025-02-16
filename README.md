@@ -1,6 +1,6 @@
 # AngularFrontend
 
-This configuration-management-sytem front project was developed using Angular version 19.1.7.
+This configuration-management-system front project was developed using Angular version 19.1.7. This is initial version of development.
 
 ## Development server
 
